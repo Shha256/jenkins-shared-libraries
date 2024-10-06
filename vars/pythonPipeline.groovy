@@ -24,7 +24,7 @@ def call(body) {
                         branch pattern: "v*"
                     }
                 }
-            } 
-        } 
-    } 
+            }
+        }
+    }
 }
